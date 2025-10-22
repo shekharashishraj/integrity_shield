@@ -1,47 +1,20 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
 
-# Distribution / packaging
-build/
-dist/
-.eggs/
-*.egg-info/
-.env
-.venv
-venv/
-ENV/
-
-# Logs and runtime artifacts
-logs/
-*.log
-
-data/raw/mmlu_all.json 
-# Data & outputs
 data/raw/
 
 
-# PDF/LaTeX build artifacts
+logs/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+ENV/
+.DS_Store
+.idea/
+.vscode/
 *.aux
 *.log
 *.out
 *.toc
-*.synctex.gz
 *.fdb_latexmk
 *.fls
-
-# IDE / editor config
-.vscode/
-.idea/
-.DS_Store
-
-# Temporary files
-*.tmp
-*.swp
-*.swo
-
-# Test caches
-.pytest_cache/
-.mypy_cache/
-
+*.synctex.gz
