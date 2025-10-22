@@ -17,6 +17,9 @@ ENV/
 logs/
 *.log
 
+data/raw/mmlu_all.json 
+# Data & outputs
+data/raw/
 
 
 # PDF/LaTeX build artifacts
