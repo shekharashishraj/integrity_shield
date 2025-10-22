@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+.eggs/
+*.egg-info/
+.env
+.venv
+venv/
+ENV/
+
+# Logs and runtime artifacts
+logs/
+*.log
+
+
+
+# PDF/LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# IDE / editor config
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Test caches
+.pytest_cache/
+.mypy_cache/
+
