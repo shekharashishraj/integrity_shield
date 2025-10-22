@@ -24,6 +24,4 @@ logs/
 
 # Ignore large dataset files
 data/raw/mmlu_all.json
-data/raw/*.csv
-data/raw/*.parquet
-data/raw/*.json
+
